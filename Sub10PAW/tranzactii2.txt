@@ -1,0 +1,3 @@
+﻿intrare,100.50
+iesire,50.25
+intrare,75.00

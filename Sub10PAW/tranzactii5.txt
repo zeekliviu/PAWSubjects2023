@@ -1,0 +1,6 @@
+﻿intrare,90.75
+iesire,40.50
+iesire,10.25
+intrare,150.00
+intrare,70.50
+iesire,25.75

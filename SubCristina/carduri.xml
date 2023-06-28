@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCardTransport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CardTransport>
+    <Nume>Gigi Fronescu</Nume>
+    <Sold>14.5</Sold>
+  </CardTransport>
+  <CardTransport>
+    <Nume>Mimi Georgescu</Nume>
+    <Sold>12.2</Sold>
+  </CardTransport>
+  <CardTransport>
+    <Nume>Andrei Banutiu</Nume>
+    <Sold>12.5</Sold>
+  </CardTransport>
+  <CardTransport>
+    <Nume>Marta Petreu</Nume>
+    <Sold>21.4</Sold>
+  </CardTransport>
+  <CardTransport>
+    <Nume>Mircea Mihaies</Nume>
+    <Sold>19.1</Sold>
+  </CardTransport>
+</ArrayOfCardTransport>

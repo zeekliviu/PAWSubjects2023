@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProd xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Prod>
+    <cod>1</cod>
+    <denumire>Pizza Margherita</denumire>
+    <Pret>20</Pret>
+  </Prod>
+  <Prod>
+    <cod>2</cod>
+    <denumire>Pizza Quattro Stagioni</denumire>
+    <Pret>25</Pret>
+  </Prod>
+  <Prod>
+    <cod>3</cod>
+    <denumire>Pizza Diavola</denumire>
+    <Pret>22.5</Pret>
+  </Prod>
+  <Prod>
+    <cod>4</cod>
+    <denumire>Pizza Prosciutto e Funghi</denumire>
+    <Pret>23</Pret>
+  </Prod>
+  <Prod>
+    <cod>5</cod>
+    <denumire>Pizza Capriciosa</denumire>
+    <Pret>24.5</Pret>
+  </Prod>
+  <Prod>
+    <cod>6</cod>
+    <denumire>Pizza Hawaii</denumire>
+    <Pret>26</Pret>
+  </Prod>
+  <Prod>
+    <cod>7</cod>
+    <denumire>Pizza Vegetariana</denumire>
+    <Pret>21.5</Pret>
+  </Prod>
+  <Prod>
+    <cod>8</cod>
+    <denumire>Pizza Calzone</denumire>
+    <Pret>27.5</Pret>
+  </Prod>
+  <Prod>
+    <cod>9</cod>
+    <denumire>Pizza Caprese</denumire>
+    <Pret>22</Pret>
+  </Prod>
+  <Prod>
+    <cod>10</cod>
+    <denumire>Pizza Frutti di Mare</denumire>
+    <Pret>28</Pret>
+  </Prod>
+  <Prod>
+    <cod>11</cod>
+    <denumire>Salată Caesar</denumire>
+    <Pret>15</Pret>
+  </Prod>
+  <Prod>
+    <cod>12</cod>
+    <denumire>Salată Grecească</denumire>
+    <Pret>16</Pret>
+  </Prod>
+  <Prod>
+    <cod>13</cod>
+    <denumire>Supă de Pui</denumire>
+    <Pret>10</Pret>
+  </Prod>
+  <Prod>
+    <cod>14</cod>
+    <denumire>Supă de Roșii</denumire>
+    <Pret>9.5</Pret>
+  </Prod>
+  <Prod>
+    <cod>15</cod>
+    <denumire>Tiramisu</denumire>
+    <Pret>12</Pret>
+  </Prod>
+  <Prod>
+    <cod>16</cod>
+    <denumire>Profiterol</denumire>
+    <Pret>13.5</Pret>
+  </Prod>
+  <Prod>
+    <cod>17</cod>
+    <denumire>Gelato</denumire>
+    <Pret>8.5</Pret>
+  </Prod>
+  <Prod>
+    <cod>18</cod>
+    <denumire>Panna Cotta</denumire>
+    <Pret>11</Pret>
+  </Prod>
+  <Prod>
+    <cod>19</cod>
+    <denumire>Coca-Cola</denumire>
+    <Pret>5</Pret>
+  </Prod>
+  <Prod>
+    <cod>20</cod>
+    <denumire>Fanta</denumire>
+    <Pret>4.5</Pret>
+  </Prod>
+  <Prod>
+    <cod>21</cod>
+    <denumire>Mirinda</denumire>
+    <Pret>4.5</Pret>
+  </Prod>
+</ArrayOfProd>

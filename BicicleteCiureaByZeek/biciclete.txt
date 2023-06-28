@@ -1,0 +1,10 @@
+﻿3,Parcul Unirii,152
+4,Parcul Brancoveanu,175
+1,OMV Secuilor,19
+10,Preciziei Plaza,38
+9,Piata Florilor,381
+18,Parcul Plumbuita,116
+21,Colentina Square,225
+17,Gigi's Place,142
+13,Maricica's Home,141
+20,Piata Romana,19

@@ -1,0 +1,5 @@
+﻿13,Gigi Fronescu,14.5
+12,Mimi Georgescu,12.2
+21,Andrei Banutiu,12.5
+14,Marta Petreu,21.4
+17,Mircea Mihaies,19.1

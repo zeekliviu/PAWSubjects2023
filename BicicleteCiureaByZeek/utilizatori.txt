@@ -1,0 +1,15 @@
+﻿13,Isabela Maria,21,42
+11,Gigi Pop,17,30
+21,Maria Ioana,3,60
+75,Zeek Liviu,9,120
+42,Karina Raditoiu,3,128
+69,Alex Plescan,17,75
+20,Andreea Popescu,13,190
+8,Ion Ionescu,20,100
+16,Varlaam Ivireanul,1,43
+19,Mimi Branescu,18,65
+41,Matilda Boerescu,1,72
+35,Cristian Ciurea,17,90
+27,Andrei Ion,4,104
+29,Constanta Cernat,10,67
+10,Ivan cel Groaznic,9,85

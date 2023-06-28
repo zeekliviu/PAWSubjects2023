@@ -1,0 +1,20 @@
+﻿1,Pizza Margherita,20.00
+2,Pizza Quattro Stagioni,25.00
+3,Pizza Diavola,22.50
+4,Pizza Prosciutto e Funghi,23.00
+5,Pizza Capriciosa,24.50
+6,Pizza Hawaii,26.00
+7,Pizza Vegetariana,21.50
+8,Pizza Calzone,27.50
+9,Pizza Caprese,22.00
+10,Pizza Frutti di Mare,28.00
+11,Salată Caesar,15.00
+12,Salată Grecească,16.00
+13,Supă de Pui,10.00
+14,Supă de Roșii,9.50
+15,Tiramisu,12.00
+16,Profiterol,13.50
+17,Gelato,8.50
+18,Panna Cotta,11.00
+19,Coca-Cola,5.00
+20,Fanta,4.50

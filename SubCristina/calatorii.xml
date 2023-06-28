@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCalatorie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Calatorie>
+    <Valoare>3.2</Valoare>
+    <CodC>12</CodC>
+    <Distanta>10</Distanta>
+  </Calatorie>
+  <Calatorie>
+    <Valoare>1.2</Valoare>
+    <CodC>13</CodC>
+    <Distanta>5</Distanta>
+  </Calatorie>
+  <Calatorie>
+    <Valoare>2.6</Valoare>
+    <CodC>13</CodC>
+    <Distanta>2</Distanta>
+  </Calatorie>
+  <Calatorie>
+    <Valoare>1.3</Valoare>
+    <CodC>21</CodC>
+    <Distanta>5</Distanta>
+  </Calatorie>
+  <Calatorie>
+    <Valoare>2.25</Valoare>
+    <CodC>17</CodC>
+    <Distanta>6</Distanta>
+  </Calatorie>
+  <Calatorie>
+    <Valoare>2.75</Valoare>
+    <CodC>17</CodC>
+    <Distanta>6</Distanta>
+  </Calatorie>
+  <Calatorie>
+    <Valoare>2.5</Valoare>
+    <CodC>17</CodC>
+    <Distanta>6</Distanta>
+  </Calatorie>
+</ArrayOfCalatorie>

@@ -1,0 +1,10 @@
+﻿Pizza Margherita,Crocant,30
+Pizza Quattro Stagioni,Normal,40
+Pizza Diavola,Pufos,35
+Pizza Prosciutto e Funghi,Subtire,25
+Pizza Capriciosa,Crocant,35
+Pizza Hawaii,Subtire,30
+Pizza Vegetariana,Pufos,40
+Pizza Calzone,Crocant,45
+Pizza Caprese,Normal,30
+Pizza Frutti di Mare,Subtire,50

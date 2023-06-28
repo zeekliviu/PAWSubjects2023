@@ -1,0 +1,10 @@
+﻿1,Informatică Aplicată,10,20
+2,Managementul Afacerilor,15,25
+3,Inginerie Electrică,12,18
+4,Știința Datelor,8,15
+5,Economie și Finanțe,20,30
+6,Design Industrial,10,12
+7,Literatură Comparată,5,8
+8,Inginerie Mecanică,15,20
+9,Psihologie Clinică,10,15
+10,Arhitectură Urbană,8,10
